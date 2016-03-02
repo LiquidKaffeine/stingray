@@ -1,0 +1,129 @@
+---
+layout: default
+---
+
+
+    <div class="container-fluid main-banner">
+	    <div class="row text-center">
+		 
+		    <img class="img-center img-responsive" src="images/caption.png"/>
+	    </div>
+
+
+    </div> <!-- /container -->
+<!--     BODY STARTS HERE -->
+<section>
+    <div class="container">
+    
+    		<h1 class="text-center en-font head">Our Services<span>企業案内</span></h1>
+    	
+    	
+    	<div class="row parent-relative">
+	    	
+	    	<div class="col-sm-4">
+		    	<img class="img-responsive" src="images/a.jpg"/>
+		    	<a href="#">
+		    	<div class="shadow box-squares">
+				    <h2>不動産<span>コンサルティング</span></h2>
+				    <p>不動産経営に関する承継、形成、運用、管理など何でもご相談ください。お客様の未来を託せるベストパートナーを目指します。</p>
+				    <i class="fa fa-caret-right "></i>
+		    	</div>
+		    	</a>
+	    	</div>
+ 
+	    	<div class="col-sm-4">
+		    	<img class="img-responsive" src="images/b.jpg"/>
+		    	<a href="#">
+		    	<div class="shadow box-squares">
+				    <h2>不動産<span>購入・売却</span></h2>
+				    <p>購入は的確な評価・選別を行い、購入後のアフターサービスまでしっかり対応します。売却はネットワークを駆使したベストな対策をご提案します。</p>
+				    <i class="fa fa-caret-right "></i>
+		    	</div>
+		    	</a>
+	    	</div>
+	    	
+	    	<div class="col-sm-4">
+		    	<img class="img-responsive" src="images/c.jpg"/>
+		    	<a href="#">
+		    	<div class="shadow box-squares">
+				    <h2>不動<span>賃貸・管理</span></h2>
+				    <p>満室経営に向けてのテナント・入居者様の募集対策から日々の管理・運用まで安定した不動産サービスを提供します。</p>
+				    <i class="fa fa-caret-right "></i>
+		    	</div>
+		    	</a>
+	    	</div>
+	    	
+	    	<div class="col-sm-4">
+		    	<img class="img-responsive" src="images/d.jpg"/>
+		    	<a href="#">
+		    	<div class="shadow box-squares">
+				    <h2>不動産<span>リノベーション</span></h2>
+				    <p>経年劣化した内装、外装の改修のみならず、フルリノベーションや事業用、収益不動産向けのリニューアル・コンバージョン業務等幅広く提供します。</p>
+				    <i class="fa fa-caret-right "></i>
+		    	</div>
+		    	</a>
+	    	</div>
+	    	
+	    	
+	    	<div class="col-sm-4">
+		    	<img class="img-responsive" src="images/e.jpg"/>
+		    	<a href="#">
+		    	<div class="shadow box-squares">
+				    <h2>相続対応<span>コンサルティング</span></h2>
+				    <p>相続トラブルは早めの対策で未然に防げます。家族・親族に幸せな想いを残すため、法律、税務、建築、金融などの複合的な視点で相続対策致します。</p>
+				    <i class="fa fa-caret-right "></i>
+		    	</div>
+		    	</a>
+	    	</div>
+	    	
+	    	<div class="col-sm-4">
+		    	<div class="grey-bg">
+		    	<div class="map map-frame">
+			    	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.1952167845943!2d139.76977761418732!3d35.69681338672679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c02ba32d9d9%3A0x91713ea6d35844e9!2z44CSMTAxLTAwNDEgVMWNa3nFjS10bywgQ2hpeW9kYS1rdSwgS2FuZGEgU3VkYWNoxY0sIDIgQ2hvbWXiiJIyM-KIkjExIO-9g-KAle-8q--8s--8keays-WQiOODk-ODqw!5e0!3m2!1sen!2sjp!4v1456284429494" width="100%" height="40%" frameborder="0" style="border:0" allowfullscreen></iframe>
+		    	</div>
+		    	<h2 class="head">株式会社エムスクエアスィンクス</h2>
+		    	<address>
+		    	〒101-0041<br/>
+東京都千代田区神田須田町２－２３－１１<br/>
+河合ビル７階<br/>
+受付時間：9:30~18:30<br/>
+Tel : 03-3526-6188    メール : メールはこちら</address>
+	    	</div>
+	 	   </div>
+    	</div>
+    </div>
+</section>
+    
+    
+<section>
+	<div class="container-fluid news-bg">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-sm-6">
+					<h1 class="text-center en-font head">Latest News<span>お知らせ</span></h1>
+					<ul class="list-unstyled news-list">
+						{% for post in site.categories.news limit:4 %}
+						<li><span>{{ post.date | date: "%Y.%m.%d" }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+
+						{% endfor %}
+					</ul>
+
+				</div>
+				
+				<div class="col-sm-6 ">
+					<div class="banners text-center">
+						<a href="#"><img class="img-center col-xs-12" src="images/banner1.jpg"/></a>
+						<a href="#"><img class="img-center col-xs-12" src="images/banner2.jpg"/></a>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
