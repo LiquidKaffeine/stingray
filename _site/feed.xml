@@ -4,10 +4,10 @@
     <title>m squarethink</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://liquidkaffeine.github.io/jekyll/</link>
-    <atom:link href="http://liquidkaffeine.github.io/jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2016 15:37:53 +0900</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 15:37:53 +0900</lastBuildDate>
+    <link>http://liquidkaffeine.github.io/stingray/</link>
+    <atom:link href="http://liquidkaffeine.github.io/stingray/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Mar 2016 08:50:34 +0900</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 08:50:34 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 01 Mar 2016 15:42:27 +0900</pubDate>
-        <link>http://liquidkaffeine.github.io/jekyll/news/2016/03/01/eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</link>
-        <guid isPermaLink="true">http://liquidkaffeine.github.io/jekyll/news/2016/03/01/eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</guid>
+        <link>http://liquidkaffeine.github.io/stingray/news/2016/03/01/eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</link>
+        <guid isPermaLink="true">http://liquidkaffeine.github.io/stingray/news/2016/03/01/eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</guid>
         
         
         <category>news</category>
@@ -54,8 +54,8 @@
 
 </description>
         <pubDate>Tue, 01 Mar 2016 15:42:27 +0900</pubDate>
-        <link>http://liquidkaffeine.github.io/jekyll/news/2016/03/01/10%E6%9C%8825%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.html</link>
-        <guid isPermaLink="true">http://liquidkaffeine.github.io/jekyll/news/2016/03/01/10%E6%9C%8825%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.html</guid>
+        <link>http://liquidkaffeine.github.io/stingray/news/2016/03/01/10%E6%9C%8825%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.html</link>
+        <guid isPermaLink="true">http://liquidkaffeine.github.io/stingray/news/2016/03/01/10%E6%9C%8825%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.html</guid>
         
         
         <category>news</category>
@@ -80,8 +80,8 @@
 
 </description>
         <pubDate>Sat, 20 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://liquidkaffeine.github.io/jekyll/news/2016/02/20/%E4%B8%8D%E5%8B%95%E7%94%A3%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF-%E6%96%B0%E3%81%97%E3%81%84%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1.html</link>
-        <guid isPermaLink="true">http://liquidkaffeine.github.io/jekyll/news/2016/02/20/%E4%B8%8D%E5%8B%95%E7%94%A3%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF-%E6%96%B0%E3%81%97%E3%81%84%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1.html</guid>
+        <link>http://liquidkaffeine.github.io/stingray/news/2016/02/20/%E4%B8%8D%E5%8B%95%E7%94%A3%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF-%E6%96%B0%E3%81%97%E3%81%84%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1.html</link>
+        <guid isPermaLink="true">http://liquidkaffeine.github.io/stingray/news/2016/02/20/%E4%B8%8D%E5%8B%95%E7%94%A3%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF-%E6%96%B0%E3%81%97%E3%81%84%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1.html</guid>
         
         
         <category>news</category>
@@ -106,8 +106,8 @@
 
 </description>
         <pubDate>Mon, 15 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://liquidkaffeine.github.io/jekyll/news/2016/02/15/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A-copy.html</link>
-        <guid isPermaLink="true">http://liquidkaffeine.github.io/jekyll/news/2016/02/15/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A-copy.html</guid>
+        <link>http://liquidkaffeine.github.io/stingray/news/2016/02/15/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A-copy.html</link>
+        <guid isPermaLink="true">http://liquidkaffeine.github.io/stingray/news/2016/02/15/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A-copy.html</guid>
         
         
         <category>news</category>
@@ -132,8 +132,8 @@
 
 </description>
         <pubDate>Thu, 11 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://liquidkaffeine.github.io/jekyll/company/2016/02/11/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</link>
-        <guid isPermaLink="true">http://liquidkaffeine.github.io/jekyll/company/2016/02/11/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</guid>
+        <link>http://liquidkaffeine.github.io/stingray/company/2016/02/11/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</link>
+        <guid isPermaLink="true">http://liquidkaffeine.github.io/stingray/company/2016/02/11/2016%E5%B9%B42%E6%9C%881%E6%97%A5%E7%99%BA%E5%A3%B2-eclat-%E3%82%A8%E3%82%AF%E3%83%A9-3%E6%9C%88%E5%8F%B7-%E8%A6%AA-%E3%81%8B%E3%82%89%E3%81%AE%E7%9B%B8%E7%B6%9A.html</guid>
         
         
         <category>company</category>
